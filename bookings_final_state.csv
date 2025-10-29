@@ -1,0 +1,10 @@
+room_no,building,capacity,booked_hours
+NAB101,NAB,60,
+NAB102,NAB,70,
+NAB103,NAB,80,
+5101,LTC,150,
+5102,LTC,250,
+5103,LTC,189,
+5104,LTC,140,
+5105,LTC,300,4
+1223,FD-I,60,
